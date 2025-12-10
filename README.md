@@ -75,3 +75,7 @@ java -cp po-uilib.jar:. bci.app.App
 To start the application with an initial state file like ex.im
 java -Dimport=ex.im -cp po-uilib.jar:. bci.app.App
 ```
+---
+## Contributors
+
+- [Felipe Santana](https://github.com/felipesantana123123)
