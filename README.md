@@ -78,4 +78,12 @@ java -Dimport=ex.im -cp po-uilib.jar:. bci.app.App
 ---
 ## Contributors
 
-- [Felipe Santana](https://github.com/felipesantana123123)
+<a href="https://github.com/felipesantana123123">
+  <img src="https://github.com/felipesantana123123.png?size=50" width="50" height="50" style="vertical-align: middle;">
+</a>
+<span style="line-height: 50px; font-size:16px; font-weight:bold;">
+  <a href="https://github.com/felipesantana123123">Felipe Santana</a>
+</span>
+
+
+
